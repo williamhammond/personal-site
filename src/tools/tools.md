@@ -27,3 +27,5 @@ This is a list of tools I enjoy so that I can find the links when I need them.
   - [Controller Companion](http://controllercompanion.com/)
   - [Unreal Style Guide](https://github.com/Allar/ue5-style-guide)
   - [MSBuild Log Viewer](https://msbuildlog.com/)
+  - [Size Bench](https://github.com/microsoft/SizeBench)
+  - [Compiler Explorer](https://godbolt.org/)
